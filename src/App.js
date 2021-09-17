@@ -19,7 +19,6 @@ function App() {
           <Route path="/shop" component={Shop} />
         </Switch>
       </Router>
-      ;
     </>
   );
 }
