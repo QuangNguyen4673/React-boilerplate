@@ -1,5 +1,6 @@
+import "./assets/style.css";
 function App() {
-  return <>Hello boilerplate</>;
+  return <div className="text-blue-500">Hello boilerplate</div>;
 }
 
 export default App;
